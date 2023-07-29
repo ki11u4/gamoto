@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colors -->
+    <color name="primary">#009EFF</color>
+    <color name="secondary">#36B37E</color>
+    <color name="tertiary">#FF5630</color>
+    <color name="font">#363853</color>
+    <color name="info">#7BC3FC</color>
+    <color name="success">#2EC28B</color>
+    <color name="caution">#E32B2B</color>
+    <color name="cardbackground">#f4f5f7</color>
+
+    <!-- Shades Color   -->
+    <color name="primary_shades">#C5E5FD</color>
+    <color name="secondary_shades">#B4E9D5</color>
+    <color name="light_shades">#F4F5F7</color>
+    <color name="dark_shades">#B3BAC5</color>
+    <color name="pink">#FF0084</color>
+</resources>

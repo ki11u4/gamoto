@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "15636771408",
+    "firebase_url": "https://gamotonewandimprovedversion-default-rtdb.firebaseio.com",
+    "project_id": "gamotonewandimprovedversion",
+    "storage_bucket": "gamotonewandimprovedversion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15636771408:android:d4a35c6318c81b93dcd755",
+        "android_client_info": {
+          "package_name": "com.example.gamotolastminute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15636771408-5nf4b6i32f9k75n0v5ku7m31r9hnv4en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2273rMMk9DeFR97V1EnwTdxVtm682qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15636771408-5nf4b6i32f9k75n0v5ku7m31r9hnv4en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15636771408:android:7da12ad6488dac28dcd755",
+        "android_client_info": {
+          "package_name": "com.example.gamotonewandimprovedversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15636771408-9ohij5cgpg0q5j1kmvcvpemol2p9160j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamotonewandimprovedversion",
+            "certificate_hash": "e1126ec6ee1053c7e39692ff49619a39faabca9a"
+          }
+        },
+        {
+          "client_id": "15636771408-5nf4b6i32f9k75n0v5ku7m31r9hnv4en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2273rMMk9DeFR97V1EnwTdxVtm682qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15636771408-5nf4b6i32f9k75n0v5ku7m31r9hnv4en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gamoto</string>
+
+    <string name="first_slide_heading">Discount &amp; Offers</string>
+    <string name="first_slide_description">Get exclusive bonuses and Discounts on Gamoto when you shop on the app</string>
+
+    <string name="second_slide_heading">Home Delivery</string>
+    <string name="second_slide_description">Need your Medicine quickly? Order from Gamoto and have it delivered in minutes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="aboutus">Gamoto is an innovative online shopping platform that brings the thrill of shopping right to your fingertips. We leverage advanced AI technology to provide personalized recommendations, making your shopping experience efficient and tailored to your preferences. With Gamoto, discover and purchase products that align with your unique style and interests. Download our app today and embark on a journey of personalized discovery. Happy shopping!</string>
+
+</resources>
