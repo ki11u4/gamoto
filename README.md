@@ -1,8 +1,11 @@
 # Gamoto - Your Trusted Medicines Marketplace
+
+![sample](Image/7.png)
 ### Overview
 Gamoto is a user-friendly mobile app that provides a convenient and efficient way to purchase medicines. Whether you need over-the-counter medications or prescription drugs, Gamoto has got you covered. With an intuitive interface and a wide selection of medicines from licensed pharmacies and vendors, you can easily find and order the medications you need, all from the comfort of your smartphone. In today's fast-paced world, getting access to medicines when you need them most is crucial. Gamoto aims to bridge the gap between pharmacies, vendors, and customers by offering a reliable platform where users can buy their required medicines hassle-free. The app puts safety and quality first, ensuring that all medicines available on the platform come from trusted sources and adhere to regulatory standards.
 
 ### Features
+![sample](Image/8.png)
   1. Browse Medicines: Gamoto offers a comprehensive catalog of medicines, allowing users to browse and search for specific drugs or medical products. Users can easily find the medicines they need by using filters or searching by name, brand, or category.
 
   2. Search Medicines: The Search feature enables users to search for medicines using either their generic names or brand names. This functionality helps users quickly find the specific medicines they are looking for, saving time and effort.
@@ -12,6 +15,9 @@ Gamoto is a user-friendly mobile app that provides a convenient and efficient wa
   4. Medicine Ratings: Users can leave ratings and reviews for pharmacies and vendors based on their shopping experience. This feature helps maintain transparency and accountability within the platform.
 
   5. Profile: Empowers users to manage their personal details and preferences. They can update their account information, such as name, contact details, and address, ensuring accurate and up-to-date delivery of their orders.
+
+### Demo Video
+Click the link to watch https://drive.google.com/file/d/1fkgW0AcsFEj91U1ifWhp9G5vjo6Xg0Zr/view?usp=sharing
 
 ### Requirements
 To run Gamoto on your Android device, ensure the following:
@@ -29,10 +35,10 @@ To run Gamoto on your Android device, ensure the following:
 - Jefferson A. Costales
 
 ### School Information
-Eulogio "Amang" Rodriguez Institute of Science and Technology
-Nagtahan, Sampaloc, Manila, Philippines
-College of Arts and Sciences
-ITE Department
+Eulogio "Amang" Rodriguez Institute of Science and Technology <br />
+Nagtahan, Sampaloc, Manila, Philippines<br />
+College of Arts and Sciences<br />
+ITE Department<br />
 
 
 ## Course:
