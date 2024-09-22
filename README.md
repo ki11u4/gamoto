@@ -16,9 +16,6 @@ Gamoto is a user-friendly mobile app that provides a convenient and efficient wa
 
   5. Profile: Empowers users to manage their personal details and preferences. They can update their account information, such as name, contact details, and address, ensuring accurate and up-to-date delivery of their orders.
 
-### Demo Video
-Click the link to watch https://drive.google.com/file/d/1fkgW0AcsFEj91U1ifWhp9G5vjo6Xg0Zr/view?usp=sharing
-
 ### Requirements
 To run Gamoto on your Android device, ensure the following:
 - Android Studio 4.0 (installed on a Mac, Linux, or Windows machine)
